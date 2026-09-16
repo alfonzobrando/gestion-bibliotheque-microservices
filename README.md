@@ -1,4 +1,4 @@
-# Gestion d'une bibliothèque — Microservices
+# Gestion d'une bibliothèque - Microservices
 
 Projet académique réalisé dans le cadre de ma formation en développement informatique.
 
